@@ -12,7 +12,7 @@ A TUI downloader powered by yt-dlp
 - Supports [multiple](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
 - Select audio or video formats with best quality presets.
 - Supports custom directories with artist/album subfolders for music.
-- Supports multiple audio codecs (FLAC, OPUS, WAV, M4A & MP3 ) and video containers (MKV, MP4, WEBM, & MOV).
+- Supports multiple audio codecs (FLAC, OPUS, WAV, M4A, & MP3) and video containers (MKV, MP4, WEBM, & MOV).
 - Embed thumbnails optionally for files.
 
 ## Dependencies
