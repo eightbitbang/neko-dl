@@ -2,6 +2,9 @@
 
 A TUI downloader powered by yt-dlp
 
+![neko-dl](https://github.com/user-attachments/assets/e081614a-f778-4d1b-bb22-3e08d0081e82)
+
+
 ## Features
 
 - Supports encrypted and decrypted cookie files.
