@@ -144,9 +144,6 @@ set -gx PATH $HOME/.local/bin $PATH
 source ~/.config/fish/config.fish
 ```
 
-
-4. Follow prompts for cookies, URL, save location, format, and thumbnail preferences.
-
 ## Cookie Support
 
 ### Firefox:
