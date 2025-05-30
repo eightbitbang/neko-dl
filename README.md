@@ -108,23 +108,38 @@ chmod +x neko-dl
 ```
 3. Setup executable for system wide usage:
 
-### bash instuctions
-   #Add this to ~/.bashrc
-```export PATH="$HOME/.local/bin:$PATH"```
-   Apply changes:
-```source ~/.bashrc```
+## BASH instuctions
 
-### zsh instructions
-   #Add this to ~/.zshrc
-```export PATH="$HOME/.local/bin:$PATH"```
-   Apply changes:
-```source ~/.zshrc```
+1. Add this to ~/.bashrc
+```bash
+export PATH="$HOME/.local/bin:$PATH"
+```
+2. Apply changes:
+```bash
+source ~/.bashrc
+```
 
-### fish instructions
-   #Add this to config.fish
-```set -gx PATH $HOME/.local/bin $PATH```
-   Apply changes:
-```source ~/.config/fish/config.fish```
+## ZSH instructions
+
+1. Add this to ~/.zshrc
+```zsh
+export PATH="$HOME/.local/bin:$PATH"
+```
+2. Apply changes:
+```zsh
+source ~/.zshrc
+```
+
+## FISH instructions
+
+1. Add this to config.fish
+```fish
+set -gx PATH $HOME/.local/bin $PATH
+```
+2. Apply changes:
+```fish
+source ~/.config/fish/config.fish
+```
 
 
 4. Follow prompts for cookies, URL, save location, format, and thumbnail preferences.
