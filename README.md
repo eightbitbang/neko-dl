@@ -7,11 +7,11 @@ A TUI downloader powered by yt-dlp
 
 ## Features
 
-- Supports encrypted and decrypted cookie files.
+- Friendly terminal interface using fzf.
+- Supports encrypted and decrypted cookie files for restricted/region locked content
+- Supports multiple sites.
 - Select audio or video formats with best quality presets.
 - Supports custom directories with artist/album subfolders for music.
-- Supports cookie file usage for restricted or region-locked content.
-- Friendly terminal interface using fzf.
 - Supports multiple audio codecs (FLAC, OPUS, WAV, M4A & MP3 ) and video containers (MKV, MP4, WEBM, & MOV).
 - Embed thumbnails optionally for files.
 
