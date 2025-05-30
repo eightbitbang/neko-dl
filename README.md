@@ -23,7 +23,7 @@ A TUI downloader powered by yt-dlp for unix-like systems.
 - [ffmpeg](https://ffmpeg.org/)
 - [fzf](https://github.com/junegunn/fzf)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- Bash, ZSH and Fish are supported.
+- Bash, ZSH and Fish shells are supported.
 
 ### Installing Dependencies
 
