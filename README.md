@@ -108,20 +108,20 @@ chmod +x neko-dl
 ```
 3. Setup executable for system wide usage:
 
-   bash instuctions
-# Add this to ~/.bashrc
+### bash instuctions
+   #Add this to ~/.bashrc
 ```export PATH="$HOME/.local/bin:$PATH"```
    Apply changes:
 ```source ~/.bashrc```
 
-   zsh instructions
-# Add this to ~/.zshrc
+### zsh instructions
+   #Add this to ~/.zshrc
 ```export PATH="$HOME/.local/bin:$PATH"```
    Apply changes:
 ```source ~/.zshrc```
 
-   fish instructions
-# Add this to config.fish
+### fish instructions
+   #Add this to config.fish
 ```set -gx PATH $HOME/.local/bin $PATH```
    Apply changes:
 ```source ~/.config/fish/config.fish```
