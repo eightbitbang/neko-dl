@@ -1,6 +1,6 @@
 # neko-dl 🐾
 
-A TUI downloader powered by yt-dlp
+A TUI downloader powered by yt-dlp for unix-like systems.
 
 ![neko-dl](https://github.com/user-attachments/assets/e081614a-f778-4d1b-bb22-3e08d0081e82)
 
