@@ -67,7 +67,7 @@ To compile `neko-dl.sh` into a standalone executable binary (`neko-dl`), use the
 
 #### Arch Linux
 ```bash/zsh/fish
-sudo pacman -S shc
+sudo pacman -Syu shc
 ```
 
 #### Debian / Ubuntu
