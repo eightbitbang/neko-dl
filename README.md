@@ -9,7 +9,7 @@ A TUI downloader powered by yt-dlp
 
 - Friendly terminal interface using fzf.
 - Supports encrypted and decrypted cookie files for restricted/region locked content
-- Supports multiple sites.
+- Supports [multiple](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
 - Select audio or video formats with best quality presets.
 - Supports custom directories with artist/album subfolders for music.
 - Supports multiple audio codecs (FLAC, OPUS, WAV, M4A & MP3 ) and video containers (MKV, MP4, WEBM, & MOV).
