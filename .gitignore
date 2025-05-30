@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+cookies.txt
+cookies.enc
+neko-dl.sh.x.c
