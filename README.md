@@ -15,6 +15,9 @@ A TUI downloader powered by yt-dlp
 - Supports multiple audio codecs (FLAC, OPUS, WAV, M4A, & MP3) and video containers (MKV, MP4, WEBM, & MOV).
 - Optional embed thumbnails
 
+## Feature Roadmap
+- Windows support via Powershell and Scoop
+
 ## Dependencies
 
 - [ffmpeg](https://ffmpeg.org/)
