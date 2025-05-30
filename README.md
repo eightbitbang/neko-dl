@@ -85,7 +85,17 @@ sudo dnf install shc
 ```bash/zsh/fish
 brew install shc
 ```
-
+#### NixOS
+Add the following to `/etc/nixos/configuration.nix`:
+```nix
+environment.systemPackages = with pkgs; [
+  shc
+];
+```
+Then apply the changes:
+```bash/zsh/fish
+sudo nixos-rebuild switch
+```
 ### Compile the Binary
 
 ```bash/zsh/fish
