@@ -180,7 +180,6 @@ MIT License (see LICENSE file)
 
 ## Credits
 
-- eightbitbang
 - yt-dlp development team
 - Thanks to the open source community
 
