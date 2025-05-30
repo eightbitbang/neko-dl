@@ -145,7 +145,7 @@ source ~/.config/fish/config.fish
 - Run command in the same directory as your cookies.txt file
 ```bash/zsh/fish
 openssl enc -aes-256-cbc -salt -pbkdf2 -in cookies.txt -out cookies.enc
-  
+```
 
 ## License
 
