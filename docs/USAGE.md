@@ -6,7 +6,7 @@ Welcome to **neko-dl**! This guide explains the functionality of each section of
 
 ## Overview
 
-**neko-dl** is a terminal-based YouTube media downloader powered by `yt-dlp`, presented with a cute, cat-themed interactive TUI experience using `fzf`.
+**neko-dl** is a terminal-based media downloader powered by `yt-dlp`, presented with a cute, cat-themed interactive TUI experience using `fzf`.
 
 ---
 

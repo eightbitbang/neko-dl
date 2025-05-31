@@ -9,15 +9,16 @@ A TUI downloader powered by yt-dlp for unix-like systems.
 ## Features
 
 - Friendly terminal interface using fzf.
-- Supports encrypted and decrypted cookie files for restricted/region locked content
+- Supports encrypted and decrypted cookie files for restricted/region locked content.
 - Supports [multiple](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
 - Select audio or video formats with best quality presets.
 - Supports custom output directories with subfolders.
 - Supports multiple audio codecs (FLAC, OPUS, WAV, M4A, & MP3) and video containers (MKV, MP4, WEBM, & MOV).
-- Optional embed thumbnails
+- Optional embed thumbnails.
+- Check out the docs for detailed usage guide.
 
 ## Feature Roadmap
-- Windows support via Powershell and Scoop
+- Windows support via Powershell and Scoop.
 
 ## Dependencies
 
