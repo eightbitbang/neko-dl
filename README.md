@@ -119,11 +119,11 @@ This will compile `neko-dl.sh` into an executable binary named `neko-dl`. You ca
 chmod +x neko-dl
 ```
 
-2. Run the executable:
+2. Run the binary:
 ```bash/zsh/fish
 ./neko-dl
 ```
-3. Setup executable for system wide usage:
+3. Setup binary for system wide usage:
 
 #### BASH instuctions
 
