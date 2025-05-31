@@ -51,13 +51,13 @@ Choose where your media will be saved:
 
 ### 4. URL Entry
 
-* Prompted to enter the URL of the video or playlist.
+* Prompted to enter the URL of the source.
 
 ### 5. Title Option
 
 Choose how the output file will be named:
 
-1. **Use default title** (from video metadata)
+1. **Use default title** (from metadata)
 2. **Set custom title** (you enter it manually)
 3. **Exit**
 
