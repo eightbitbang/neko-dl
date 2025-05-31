@@ -114,7 +114,7 @@ This will compile `neko-dl.sh` into an executable binary named `neko-dl`. You ca
 
 ## Usage
 
-1. Make the script executable:
+1. Make the binary executable:
 ```bash/zsh/fish
 chmod +x neko-dl
 ```
