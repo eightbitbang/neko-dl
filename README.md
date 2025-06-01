@@ -15,7 +15,7 @@ A TUI downloader powered by yt-dlp for unix-like systems.
 - Supports custom output directories with subfolders.
 - Supports multiple audio codecs (FLAC, OPUS, WAV, M4A, & MP3) and video containers (MKV, MP4, WEBM, & MOV).
 - Optional embed thumbnails.
-- Check out the docs for detailed usage guide.
+- Check out the docs for [detailed usage guide](https://github.com/eightbitbang/neko-dl/blob/main/docs/USAGE.md).
 
 ## Feature Roadmap
 - Windows support via Powershell and Scoop.
